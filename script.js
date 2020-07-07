@@ -13,7 +13,7 @@ let food = {
 }
 
 function criarBG(){
-    context.fillStyle = "darkgray";
+    context.fillStyle = "#424344";
     context.fillRect(0, 0, 16 * box, 16 * box); //desenha o retângulo onde entará o jogo
 }
 
